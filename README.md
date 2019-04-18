@@ -15,3 +15,7 @@ https://github.com/wowoniu/go-proxy
 - 命令:client -serverAddr=代理服务端IP:9000  -proxyHost=localhost
 - -proxyHost参数及需要代理到客户端所在主机能访问的域名 如 127.0.0.1  localhost 等 
 - 其余参数 请使用 client -h 命令查看
+
+
+## 客户端及服务端下载地址
+https://github.com/wowoniu/go-proxy/releases
